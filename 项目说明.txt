@@ -1,0 +1,13 @@
+技术栈:vue-cli webpack + node.js + vant-ui + koa2 + mysql + less
+
+服务端根目录：lpieces_notes
+npm install 安装依赖
+npm run dev 运行
+localhost:3000
+
+前端根目录：front
+npm install 安装依赖
+npm run dev 运行
+localhost:8080
+
+知识点：proxyTable代理跨域，vue导航守卫,h5本地存储等
